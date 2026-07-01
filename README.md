@@ -285,6 +285,16 @@ npm run build
 
 ---
 
+# 📄 License
+
+Copyright © 2026 Shashikala G.
+
+This project was developed as part of the Master of Computer Applications (MCA) final-year project.
+
+This repository is shared for educational and portfolio purposes only. No part of this project may be copied, modified, or redistributed without prior written permission from the author.
+
+---
+
 # ⭐ Support
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
