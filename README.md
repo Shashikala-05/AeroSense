@@ -281,7 +281,7 @@ npm run build
 
 **Master of Computer Applications (MCA)**
 
-**Specialization:** Artifical Intelligence, Macchine Learning & Data Science
+**Specialization:** Artifical Intelligence, Machine Learning & Data Science
 
 ---
 
