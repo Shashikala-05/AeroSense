@@ -182,7 +182,7 @@ Prediction     Alerts
 
 ---
 
-## 🔔 Browser Notification
+## 🔔 Notification
 
 ![Notification](screenshots/notifications.png)
 
