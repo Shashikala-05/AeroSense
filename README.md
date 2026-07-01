@@ -2,7 +2,7 @@
 ### Smart Air Quality Monitoring and Prediction System for Asthma & Allergy Patients
 
 <p align="center">
-  <img src="screenshots/aerosense-logo.png" alt="AeroSense Logo" width="180"/>
+  <img src="screenshots/logo.png" alt="AeroSense Logo" width="180"/>
 </p>
 
 <p align="center">
